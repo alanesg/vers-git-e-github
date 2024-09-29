@@ -21,7 +21,7 @@ Repositórios para armazenar os resumos sobre git e github do curso versionament
 |clonar e vincular um repositório do github com o git| github|
 |Adicionando um README de qualidade |(https://readme.so/pt/editor) |
 
-## 👨🏽‍💻Alguns Códigos aprendidos: 
+## 👨🏽‍💻Alguns Códigos Aprendidos: 
 
 ```
 mkdir | git init |cd .git | ls
